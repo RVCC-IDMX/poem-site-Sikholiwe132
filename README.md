@@ -1,5 +1,6 @@
 # IDMX 11ty Sass Starter
 ## Prayer Poem
+### This assignment showcases a poem called prayer by Ella Wheeler Wilcox this poem advocates self-reliance and personal responsibility. It suggests using one's own judgment and effort to navigate life's challenges. While emphasizing the importance of individual agency, the poem also acknowledges the role of prayer as a source of guidance and support. Ultimately, it promotes a balanced approach that combines self-reliance with seeking divine assistance when needed.
 
 The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
 
