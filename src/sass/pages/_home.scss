@@ -10,7 +10,35 @@ body {
   margin-block: 4rem;
 }
 
+.container {
+  position: relative;
+  text-align: left;
+}
+
+.heading {
+  font-family: 'Pacifico', cursive;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a background color for readability */
+  padding: 5px 10px; /* Optional: Add padding for better styling */
+}
 h1 {
   color: var.$primary-color;
-  text-align: center;
+  text-align: left;
 }
+
+
+
+ /* 👇 Start custom code 👇 */
+  /* Style the title */
+  .heading {
+    font-family: 'Pacifico', cursive;
+  }
+
+  
+  /* Center the poem */
+  .Poem {
+    font-family: 'Pacifico', cursive;
+  }
